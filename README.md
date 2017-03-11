@@ -1,0 +1,1 @@
+# couch-django-demo
